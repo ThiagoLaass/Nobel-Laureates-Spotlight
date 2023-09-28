@@ -1,1 +1,244 @@
+<!doctype html>
+<html lang="en">
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Eesti</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/587ee4ccdb.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+    <!--Header-->
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container">
+                <a class="navbar-brand" href="http://127.0.0.1:5500/home.html#">Eesti</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+
+                        <li class="nav-item">
+                            <a class="nav-link active" href="http://127.0.0.1:5500/home.html#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="http://127.0.0.1:5500/album.html">Album</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!--FINAL DA HEADER-->
+
+    <!--SECTION CARROSSEL-->
+    <section class="mt-5 w-100 d-grid">
+        <!--CABEÇALHO-->
+        <div class="container">
+            <h2 class="mb-0">Destaques</h2>
+            <hr class="mt-2">
+            <!-- FIM DO CABEÇALHO-->
+
+            <!--CARROSSEL-->
+            <div id="carouselExampleIndicators" class="carousel slide">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                        class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                        aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="destaque1.jpg" class="d-block w-100 object-fit-cover" height="500px" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="destaque2.jpg" class="d-block w-100 object-fit-cover" height="500px" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="destaque3.jpg" class="d-block w-100 object-fit-cover" height="500px" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </section>
+    <!--FIM DO CARROSSEL-->
+
+
+
+    <section class="mt-5 w-100 d-grid">
+        <!--CABEÇALHO-->
+        <div class="container">
+            <h2 class="mb-0">Mapa</h2>
+            <hr class="mt-2">
+            <div>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d129708.19343981822!2d24.57309370623002!3d59.47158476255604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46929499df5616bf%3A0x400b36d18fc6270!2zVGFsw61uLCBFc3TDtG5pYQ!5e0!3m2!1spt-BR!2sbr!4v1695587568788!5m2!1spt-BR!2sbr"
+                    class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </section>
+    <section class="mt-5 w-100 d-grid">
+        <section class="mt-5 w-100 d-grid">
+            <div class="container">
+                <h2 class="mb-0">Albúm</h2>
+                <hr class="mt-2">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 1-->
+                        <div class="card">
+                            <img src="imgcard1.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Bandeira da Estônia</h5>
+                                <p class="card-text">O azul simboliza o céu, preto a cor da terra e das árvores, e o
+                                    branco a esperança.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 2-->
+                        <div class="card">
+                            <img src="imgcard2.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Museu Nacional da Estônia</h5>
+                                <p class="card-text">O Museu Nacional da Estónia fundado em 1909 em Tartu, dedicado ao
+                                    folclorista Jakob Hurt, entre outros.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 3-->
+                        <div class="card">
+                            <img src="imgcard3.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Tallin</h5>
+                                <p class="card-text">Tallin é a capital do país, banhada pelo mar báltico, dividia na
+                                    antiga e nova Tallin.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 4-->
+                        <div class="card">
+                            <img src="imgcard4.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Catedral de St. Mary</h5>
+                                <p class="card-text">Construida em 1219 no estilo gótico, posterior a invasão dos
+                                    escandinavos, em Tallin.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 5-->
+                        <div class="card">
+                            <img src="imgcard5.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Idade Media</h5>
+                                <p class="card-text">A Estônia é um dos países com a maior concentração de vilas
+                                    medievias bem preservadas no mundo.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 6-->
+                        <div class="card">
+                            <img src="imgcard6.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Tallin a noite</h5>
+                                <p class="card-text">A cidade de Tallin é muito bem iluminada a noite, se tornando ainda
+                                    mais bonita.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 7-->
+                        <div class="card">
+                            <img src="imgcard7.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">A nova Tallin</h5>
+                                <p class="card-text">Tallin não se trata apenas de prédios antigos, ela é uma das mais
+                                    tecnologicas cidades do mundo.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 mb-3">
+                        <!--CARD 8-->
+                        <div class="card">
+                            <img src="imgcard8.jpg" class="card-img-top" height="200px" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Museu Estoniano</h5>
+                                <p class="card-text">Outra foto do Museu Nacional da Estônia, agora de outro ângulo
+                                    Retirada por Takuji Shimmura.</p>
+                                <a href="http://127.0.0.1:5500/album.html" class="btn btn-primary">Ver Albúm</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <section class="mt-5 w-100 d-grid">
+                <!--ALBÚM XPTO-->
+                <section class="mt-5 w-100 d-grid">
+                    <div class="container">
+                        <h2 class="mb-0">Créditos</h2>
+                        <hr class="mt-2">
+                        <div class=row>
+                            <div class=col-md-4>
+                                <h2>Sobre:</h2>
+                                <p>Aluno de engenharia de Software pela PUC Minas.</p>
+                            </div>
+
+                            <div class="col-md-8">
+                                <h2>Autoria:</h2>
+                                <div class="d-flex justify-content-between">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"
+                                        class="object-fit-cover" height="100px">
+                                    <p>Aluno: Thiago Borges Laass<br>
+                                        Curso: Engenharia de Software<br>
+                                        Turno: Manhã<br></p>
+                                    <div>
+                                        <p>Redes Sociais:<br></p>
+                                        <i class="fa-brands fa-twitter"></i>
+                                        <i class="fa-brands fa-instagram"></i>
+                                        <i class="fa-brands fa-linkedin"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </section>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+</body>
+
+</html>
