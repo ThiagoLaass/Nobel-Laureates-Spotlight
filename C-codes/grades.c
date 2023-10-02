@@ -4,7 +4,7 @@
 
 int main(int argc, char const *argv[])
 {   
-    char a[]="aluno";
+    char a[]="a";
     printf("Informe o nome do aluno\n");
     scanf("%s", &a);
 
