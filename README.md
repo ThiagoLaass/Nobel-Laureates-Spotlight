@@ -1,4 +1,3 @@
-# Projects
+# Web Developing
 
-Repository created with the reason of storing codes i have done/will do throughout my years in college, wich will be the next 4 years.
-Lang: PT/EN.
+A web page that showcases some of the nobel winners, most of them being related to physics and chemistry. Also, a map marked with the respective countries they are from.
