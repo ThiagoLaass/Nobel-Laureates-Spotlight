@@ -4,10 +4,8 @@
 
 - [About](#about)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ## About
 
@@ -15,11 +13,11 @@ Nobel Laureates Spotlight is a WEB application with the objetive to showcase and
 
 ## Features
 
-A map with each location of each person being highlighted. There is also an album of each nobel prize winner.
+There's a comprehensive display that includes a map featuring highlighted locations for each person and an album showcasing 8 of the most important Nobel Prize winners. Additionally, there's a dedicated page offering more detailed information about the Nobel Prize winners' album.
 
 ## Usage
 
-The application itself is a mere acknowledgment to the ones that sacrificed their lives to the better understanding of things.
+This application serves as a tribute to those who selflessly gave their lives in the pursuit of knowledge. Presently, it showcases eight albums for each highlighted individual. Users can click on these albums to navigate to detailed pages containing comprehensive information about each album and its respective information.
 
 # Author
 
