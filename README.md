@@ -1,3 +1,28 @@
-# Web Developing
+# Nobel Laureates Spotlight
 
-A web page that showcases some of the nobel winners, most of them being related to physics and chemistry. Also, a map marked with the respective countries they are from.
+A brief introduction explaining what the project does.
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+Nobel Laureates Spotlight is a WEB application with the objetive to showcase and highlight some of the most important nobel prize winners.
+
+## Features
+
+A map with each location of each person being highlighted. There is also an album of each nobel prize winner.
+
+## Usage
+
+The application itself is a mere acknowledgment to the ones that sacrificed their lives to the better understanding of things.
+
+# Author
+
+Thiago Borges Laass
