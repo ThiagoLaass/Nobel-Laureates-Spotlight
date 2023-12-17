@@ -1,7 +1,5 @@
 # Nobel Laureates Spotlight
 
-A brief introduction explaining what the project does.
-
 ## Table of Contents
 
 - [About](#about)
