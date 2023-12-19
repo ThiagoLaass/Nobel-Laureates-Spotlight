@@ -1,12 +1,5 @@
 # Nobel Laureates Spotlight
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Usage](#usage)
-- [Author](#author)
-
 ## About
 
 Nobel Laureates Spotlight is a WEB application with the objetive to showcase and highlight some of the most important nobel prize winners.
