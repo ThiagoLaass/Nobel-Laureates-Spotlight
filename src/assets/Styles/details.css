@@ -24,8 +24,7 @@
 }
 
 .navbar-nav .nav-link:hover {
-  background-color: white;
-  border-radius: 5px;
+  text-decoration: underline;
 }
 
 .nav-item {

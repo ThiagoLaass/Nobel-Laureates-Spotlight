@@ -1,0 +1,352 @@
+{
+    "albums": [
+      {
+        "id": 1,
+        "name": "Marie Skłodowska-Curie",
+        "description": "Em 1898, Marie anunciou à Academia Francesa de Ciências a descoberta do rádio e do polônio. Essas descobertas renderam a Marie Curie o Nobel de Química em 1911, fazendo dela a única pessoa com dois prêmios Nobel em áreas científicas diferentes.",
+        "about": "Varsóvia, Polônia. Cidade de Marie Curie",
+        "aboutimage": "https://www.portalt5.com.br/fileadmin/_processed_/b/7/csm_radioactive_marie_curie_0f7da91573.jpeg",
+        "cover": "https://3.bp.blogspot.com/-Hkz1mjBvUVo/VVc75xleQHI/AAAAAAAAh9E/3NQ3ATdmmP4/s1600/IMG_2733.JPG",
+        "country": "Polônia",
+        "image": "https://static.todamateria.com.br/upload/ma/ri/mariecurie-cke.jpg",
+        "coordinates": [
+          21.01124064061322,
+          52.225367622466315
+        ],
+        "date": "1903"
+      },
+      {
+        "id": 2,
+        "name": "Irène Joliot-Curie",
+        "description": "Irène Joliot-Curie, filha de Marie e Pierre Curie, e Frédéric Joliot-Curie ganharam o Nobel de Química em 1935 pela descoberta da radioatividade artificial, tornando a família Curie a maior ganhadora de prêmios Nobel.",
+        "about": "Paris, França. Cidade onde Irène Curie nasceu.",
+        "aboutimage": "https://mujeresconciencia.com/app/uploads/2021/06/1920px-Irena_Joliot-Curie_1-E-3962-1.jpg",
+        "cover": "https://viagemeturismo.abril.com.br/wp-content/uploads/2016/11/thinkstockphotos-4549879531.jpeg",
+        "country": "França",
+        "image": "https://i.pinimg.com/736x/e2/db/43/e2db439f117fda40dd28dfd95870092d.jpg",
+        "coordinates": [
+          2.340294859783138,
+          48.84240216418641
+        ],
+        "date": "1935"
+      },
+      {
+        "id": 3,
+        "name": "Erwin Rudolf J.A Schrödinger",
+        "description": "Erwin Rudolf Josef Alexander Schrödinger foi um físico teórico austríaco, conhecido por suas contribuições à mecânica quântica, especialmente a equação de Schrödinger, pela qual recebeu o Nobel de Física em 1933.",
+        "about": "Viena, Áustria. Cidade natal de Schrödinger",
+        "aboutimage": "https://segredosdomundo.r7.com/wp-content/uploads/2019/08/ja-ouviu-falar-sobre-a-teoria-do-gato-de-schrodinger-confira-mais-detalhes-5.jpg",
+        "cover": "https://turismodeprimeira.com.br/wp-content/uploads/2022/02/vienna-6860178_1920.jpg",
+        "image": "https://elektromanyetix.com/wp-content/uploads/2018/04/Erwin-Schrodinger.jpg",
+        "country": "Áustria",
+        "coordinates": [
+          16.376419630877912,
+          48.21242619920432
+        ],
+        "date": "1933"
+      },
+      {
+        "id": 4,
+        "name": "Max Planck",
+        "description": "Max Karl Ernst Ludwig Planck foi um físico alemão. É considerado o pai da física quântica e um dos físicos mais importantes do século XX. Planck foi laureado com o Nobel de Física de 1918, por suas contribuições na área da física quântica. ",
+        "about": "Kiel, Alemanha",
+        "aboutimage": "https://www.leme.pt/magazine/efemerides/1004/0100.jpg",
+        "cover": "https://www.ncl.com/sites/default/files/KIE_03_Luebeck_Hanseatic_League_1920x1080_LG.jpg",
+        "image": "https://segredosdomundo.r7.com/wp-content/uploads/2021/10/max-planck-biografia-e-fatos-sobre-o-pai-da-fisica-quantica-scaled-e1634576500676.jpg",
+        "country": "Alemanha",
+        "coordinates": [
+          10.127885673640401,
+          54.31855814890125
+        ],
+        "date": "1918"
+      },
+      {
+        "id": 5,
+        "name": "Kip Thorne",
+        "description": "Kip Thorne é um físico teórico norte-americano, especialista prolífico sobre ondas gravitacionais e co-autor do livro Gravitation, da qual a maior parte da atual geração de cientistas aprenderam a relatividade geral.",
+        "about": "Utah, EUA",
+        "aboutimage": "https://s2.glbimg.com/EAFZGGZ0t1MlxwgcVY_BY3wITBk=/e.glbimg.com/og/ed/f/original/2014/11/07/kip.jpg",
+        "cover": "https://www.visiteosusa.com.br/sites/default/files/styles/hero_l/public/images/hero_media_image/2019-08/bccf39bccd209677c073fa48f32b9406.jpeg?h=123294e0&itok=KOPYs2Xu",
+        "country": "USA",
+        "image": "https://media.cnnchile.com/sites/4/2021/01/kip-thorne-1.jpg",
+        "coordinates": [
+          -111.84217745077969,
+          41.73763749486634
+        ],
+        "date": "2017"
+      },
+      {
+        "id": 6,
+        "name": "Maria Göppert-Mayer",
+        "description": "Maria Göppert-Mayer foi uma física teórica estadunidense nascida na Alemanha e laureada com o Prêmio Nobel de Física por propor o modelo nuclear de camadas. Ela foi a segunda mulher a ganhar um Prêmio Nobel em física, sendo a primeira Marie Curie.",
+        "about": "Katovice, Polônia",
+        "aboutimage": "https://engenharia360.com/wp-content/uploads/maria-goeppert-mayer-blog-da-engenharia-3.jpg",
+        "cover": "https://www.momondo.pt/rimg/dimg/4c/81/61887211-city-14465-16581b0e3a3.jpg?width=1366&height=768&xhint=2116&yhint=1498&crop=true",
+        "country": "Polônia",
+        "image": "https://cdn.britannica.com/22/21022-004-E7A6B552/Maria-Goeppert-Mayer.jpg",
+        "coordinates": [
+          19.019550075640904,
+          50.24944103330576
+        ],
+        "date": "1963"
+      },
+      {
+        "id": 7,
+        "name": "Dorothy Crowfoot Hodgkin",
+        "description": "Dorothy Mary Crowfoot Hodgkin, conhecida profissionalmente como Dorothy Hodgkin, foi uma química britânica que desenvolveu a aplicabilidade da cristalografia de raios X, pela qual ela ganhou o Prêmio Nobel de Química, em 1964.",
+        "about": "Cairo, Egito",
+        "aboutimage": "https://static.polityka.pl/_resource/res/path/36/ae/36aedb4b-d324-470d-8948-1b4a7d2f4cd3_f1600x768",
+        "cover": "https://www.maladeaventuras.com/wp-content/uploads/2019/07/O-que-fazer-no-Cairo-Rio-Nilo.jpg",
+        "country": "Egito",
+        "image": "https://royalsociety.org/-/media/policy/topics/diversity-in-science/celebrating-scientists-with-disabilities/dorothy-hodgkin.jpg",
+        "coordinates": [
+          31.235975943332274,
+          30.047149597805927
+        ],
+        "date": "1964"
+      },
+      {
+        "id": 8,
+        "name": "Andrea Mia Ghez",
+        "description": "Andrea Mia Ghez, astrônoma dos EUA e professora na Universidade da Califórnia, foi reconhecida pela revista Discover em 2000 como uma das 20 principais cientistas nos Estados Unidos, destacando seu vasto conhecimento.",
+        "about": "Nova York, EUA",
+        "aboutimage": "https://hackaday.com/wp-content/uploads/2020/10/AndreaGhez.jpg",
+        "cover": "https://conteudo.imguol.com.br/c/entretenimento/54/2022/10/11/boa-parte-de-nova-york-pode-ser-vista-da-estatua-da-liberdade-1665501171075_v2_4x3.jpg",
+        "country": "USA",
+        "image": "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2020-12/Ghez-Nobel1380.jpg?itok=kDY3Q0uV",
+        "coordinates": [
+          -74.02295032591607,
+          40.7743732044076
+        ],
+        "date": "2020"
+      }
+    ],
+    "photos": [
+      {
+        "id": 11,
+        "image": "https://super.abril.com.br/wp-content/uploads/2021/04/Marie-Curie-a-polonesa-mais-brilhante-da-historia.png?w=1024&resize=1200,800",
+        "description": "Marie Curie trabalhando em seu laboratório",
+        "albumId": 1
+      },
+      {
+        "id": 111,
+        "image": "https://sciencehistory.org/wp-content/uploads/2023/04/marie-curie-colorized-1.jpeg",
+        "description": "Foto colorizada artificialmente de Marie Curie",
+        "albumId": 1
+      },
+      {
+        "id": 1111,
+        "image": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/11/marie-pierre-irene-curie.jpg",
+        "description": "Família Curie",
+        "albumId": 1
+      },
+      {
+        "id": 11111,
+        "image": "https://www.sciencehistory.org/wp-content/uploads/2023/05/marie_curie_vidoe_small.gif",
+        "description": "Um raro video de Curie recebendo uma premiação",
+        "albumId": 1
+      },
+      {
+        "id": 22,
+        "image": "https://1.bp.blogspot.com/-75pFvwN1u-w/X0lahTgZzLI/AAAAAAAAAfk/FKKb8BnWSC8qLx2hUdeOJfq_G-uUgRqnQCLcBGAsYHQ/s1368/8%2B-%2BIr%25C3%25A8ne%2BJoliot-Curie_b.JPEG",
+        "description": "Irène Curie e seu marido trabalhando em um laboratório de química",
+        "albumId": 2
+      },
+      {
+        "id": 222,
+        "image": "https://images.ctfassets.net/eqlypemzu8y5/60Eu5arotfwuO5bLXah5KQ/bcc8178dfce30bbcf6e8bc89e66284ed/IreneJoliotCurie_LIFE_Asset20.jpg?w=861&fm=jpg&fl=progressive&q=90",
+        "description": "Irène Curie em Pays de Bray, norte da França",
+        "albumId": 2
+      },
+      {
+        "id": 2222,
+        "image": "https://images.ctfassets.net/eqlypemzu8y5/BFlTeZ7OImhJcb2VXzyHP/96a7f02f823b21db46ff915173a654ae/IreneJoliotCurie_MCP239_downsaved.jpg?w=1000&fm=jpg&fl=progressive&q=90",
+        "description": "Irene Curie e sua mãe no Radium Institute",
+        "albumId": 2
+      },
+      {
+        "id": 22222,
+        "image": "https://images.ctfassets.net/eqlypemzu8y5/1IbEz1JNmVEdTzsi8Xt14c/03428f259103298746879d82f7d64aea/IreneJoliotCurie_HISTORY_asset08_downsaved.jpg?w=688&fm=jpg&fl=progressive&q=90",
+        "description": "Aos 18 anos, levando o raio-x para o front da primeira guerra na Bélgica",
+        "albumId": 2
+      },
+      {
+        "id": 33,
+        "image": "https://i0.statig.com.br/bancodeimagens/a9/s0/o5/a9s0o53ggs43yf8ykb4xdnvv3.jpg",
+        "description": "Imagem retratando o famoso gato de Schrödinger",
+        "albumId": 3
+      },
+      {
+        "id": 333,
+        "image": "https://media.nature.com/lw767/magazine-assets/d41586-018-06166-x/d41586-018-06166-x_16092454.jpg",
+        "description": "Schrödinger ministrando uma aula",
+        "albumId": 3
+      },
+      {
+        "id": 3333,
+        "image": "https://s1.eestatic.com/2017/08/28/ciencia/investigacion/cientificos-investigacion-investigacion_242487703_44529884_1706x1280.jpg",
+        "description": "Schrödinger trabalhando em seu laboratório",
+        "albumId": 3
+      },
+      {
+        "id": 33333,
+        "image": "https://www.consciocentric.com/Images/Persons/9/400/erwin-schrodinger-1.JPG",
+        "description": "Um desenho de Schrödinger",
+        "albumId": 3
+      },
+      {
+        "id": 44,
+        "image": "https://segredosdomundo.r7.com/wp-content/uploads/2021/10/max-planck-biografia-e-fatos-sobre-o-pai-da-fisica-quantica-4.jpg",
+        "description": "Max Planck e Einstein sentados juntos",
+        "albumId": 4
+      },
+      {
+        "id": 444,
+        "image": "https://segredosdomundo.r7.com/wp-content/uploads/2021/10/max-planck-biografia-e-fatos-sobre-o-pai-da-fisica-quantica-1.jpg",
+        "description": "Planck é considerado o pai da físsca quântica por suas contribuiçoes para a física moderna.",
+        "albumId": 4
+      },
+      {
+        "id": 4444,
+        "image": "https://segredosdomundo.r7.com/wp-content/uploads/2021/10/max-planck-biografia-e-fatos-sobre-o-pai-da-fisica-quantica-5-e1634576582822.jpg.webp",
+        "description": "Planck com sua esposa Marie Merck",
+        "albumId": 4
+      },
+      {
+        "id": 44444,
+        "image": "https://www.universetoday.com/wp-content/uploads/2011/03/Max_Planck_1858-19471.jpg",
+        "description": "Planck foi laureado por suas contribuições e descobrimaneto da 'Energy Quanta'",
+        "albumId": 4
+      },
+      {
+        "id": 55,
+        "image": "https://observer.com/wp-content/uploads/sites/2/2016/04/kt1.png",
+        "description": "Kip Thorne trabalhando no filme 'interestelar'",
+        "albumId": 5
+      },
+      {
+        "id": 555,
+        "image": "https://www.cardiff.ac.uk/__data/assets/image/0004/1708276/18.jpg",
+        "description": "Thorne inaugurando um novo laboratório de física na universisdade de Cardiff",
+        "albumId": 5
+      },
+      {
+        "id": 5555,
+        "image": "https://i0.wp.com/cornellsun.com/wp-content/uploads/2016/04/Pg-1-Kip-Thorne-by-Cameron-Pollack-Editor-1.jpg?fit=1000%2C667&ssl=1",
+        "description": "Kip Thorne explicando a ciência por trás do filme 'Interestelar'",
+        "albumId": 5
+      },
+      {
+        "id": 55555,
+        "image": "https://cdn.universoracionalista.org/wp-content/uploads/2020/07/interestelar-gargantua.jpg",
+        "description": "Gargantua, um buraco negro que Kip Thorne ajudou em sua 'criação'",
+        "albumId": 5
+      },
+      {
+        "id": 66,
+        "image": "https://hackaday.com/wp-content/uploads/2017/11/mariagoeppert.jpg",
+        "description": "Desenho retratando a fisíca e uma area de conhecimento",
+        "albumId": 6
+      },
+      {
+        "id": 666,
+        "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D852/production/_117387355_9e05830d-2563-4baf-a79d-71b99156e206.jpg",
+        "description": "Maria em seu trabalho sobre os números mágicos",
+        "albumId": 6
+      },
+      {
+        "id": 6666,
+        "image": "https://s.inyourpocket.com/gallery/195120.jpg",
+        "description": "Uma homenagem feita a Maria, localizada na Universidade de Katovice",
+        "albumId": 6
+      },
+      {
+        "id": 66666,
+        "image": "https://s2.glbimg.com/luzLPYq69_jQUYfRSk2FtvKDEKI=/e.glbimg.com/og/ed/f/original/2019/07/18/maria_goeppert_mayer.jpg",
+        "description": "Maria tambem trabalhou no projeto Manhattan, responsável pela criação das bombas atômicas.",
+        "albumId": 6
+      },
+      {
+        "id": 77,
+        "image": "https://engelsbergideas.com/wp-content/uploads/2023/06/Dorothy-Crowfoot-Hodgkin.jpg",
+        "description": "Foi a primeira e única mulher britânica/egípcia a conquistar o prêmio Nobel.",
+        "albumId": 7
+      },
+      {
+        "id": 777,
+        "image": "https://1.bp.blogspot.com/-Uo6KdvU2W9U/X4CoEbiZEDI/AAAAAAAA98Q/yDSTQcaQvpEsGIks6NHNaN2CNGOSTXscQCLcBGAsYHQ/s595/14%2B-%2BDorothy%2BCrowfoot%2BHodgkin_d.png",
+        "description": "Dorothy trabalhando em seu laboratório",
+        "albumId": 7
+      },
+      {
+        "id": 7777,
+        "image": "https://conference-oxford.com/content/images/venues/148/front_entrance__1600x700.jpg",
+        "description": "Dorothy Crowfoot Hodgkin Building, edifício localizado em Oxford construído em homenagem a Dorothy",
+        "albumId": 7
+      },
+      {
+        "id": 7777,
+        "image": "https://s2-galileu.glbimg.com/4sUFToNqbjpoJaxADWEEZaNgfbU=/0x0:700x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2023/D/L/BVuAUCRAGvbhc88ntA8Q/qqed-site-dorothy-crowfoot-02.png",
+        "description": "Uma representação artística de Dorothy",
+        "albumId": 7
+      },
+      {
+        "id": 88,
+        "image": "https://www.pbs.org/wgbh/nova/media/images/andrea-ghez-01.width-800.jpg",
+        "description": "Andrea é a quarta mulher da história a ganhar o Nobel de física",
+        "albumId": 8
+      },
+      {
+        "id": 888,
+        "image": "https://i.ytimg.com/vi/AZ66KPm3k-U/maxresdefault.jpg",
+        "description": "O prêmio foi concedido a ela por suas importantes descobertas relacionadas aos buracos negros",
+        "albumId": 8
+      },
+      {
+        "id": 8888,
+        "image": "https://www.iac.es/sites/default/files/images/blog/Imagen1.jpg",
+        "description": "Conhecida como a caçadora de buracos negros",
+        "albumId": 8
+      },
+      {
+        "id": 88888,
+        "image": "https://www.lanacion.com.py/resizer/wx1jDSyT73r3T4ccWLNuETODlSE=/1016x0/smart/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/CCVTS3HU6ZBWVHKNJBYTMHP77I.png",
+        "description": "Atualmente atua como professora na UCLA",
+        "albumId": 8
+      }
+    ],
+    "highlights": [
+      {
+        "id": 4,
+        "albumId": 4
+      },
+      {
+        "id": 6,
+        "albumId": 6
+      },
+      {
+        "id": 8,
+        "albumId": 8
+      },
+      {
+        "albumId": 1,
+        "id": 9
+      },
+      {
+        "albumId": 2,
+        "id": 12
+      },
+      {
+        "albumId": 7,
+        "id": 13
+      },
+      {
+        "albumId": 5,
+        "id": 14
+      },
+      {
+        "albumId": 3,
+        "id": 15
+      }
+    ]
+  }

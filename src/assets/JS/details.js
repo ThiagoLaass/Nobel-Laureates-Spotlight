@@ -1,8 +1,6 @@
-const urlBase = "https://jsonserver-2--thiagolaass202.repl.co";
-
 async function fetchAlbumDetails(albumId) {
   try {
-    const response = await fetch(`${urlBase}/albums/${albumId}?_embed=highlights`);
+    const response = await fetch(`./data/content.json`);
     const data = await response.json();
     return data;
   } catch (error) {

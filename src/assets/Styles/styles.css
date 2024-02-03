@@ -28,9 +28,7 @@ body {
 }
 
 .navbar-nav .nav-link:hover {
-  background-color: white;
-  border-radius: 5px;
-  
+  text-decoration: underline;
 }
 
 .nav-item {
@@ -101,4 +99,18 @@ body {
 .img-mark {
   width: 150px;
   height: 100px;
+}
+
+/* Socials */
+
+.x-link {
+  color: black;
+}
+
+.ig-link {
+  color: purple;
+}
+
+.lk-link {
+  color: rgb(0, 119, 181);
 }

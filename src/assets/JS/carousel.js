@@ -1,5 +1,5 @@
 function loadCarousel() {
-    fetch('https://jsonserver-2--thiagolaass202.repl.co/highlights/?_expand=album')
+    fetch('./content.json')
         .then((response) => {
             return response.json();
         })
@@ -41,5 +41,5 @@ function loadCarousel() {
                 carouselInner.appendChild(carouselItem);
             }
         })
-}   
+}
 loadCarousel();
