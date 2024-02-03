@@ -57,8 +57,7 @@ function get_card_marker(item) {
 // Mapbox
 
 function get_locations(map) {
-    const url = 'https://jsonserver-2--thiagolaass202.repl.co/albums';
-    fetch(url)
+    fetch('/data/content.json')
         .then((response) => {
             return response.json();
         })
