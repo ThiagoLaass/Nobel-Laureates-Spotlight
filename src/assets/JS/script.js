@@ -26,7 +26,7 @@ function renderCard(data) {
 function getMap() {
     const centralCoord = [-32.920371052764025, 52.41913859649995];
 
-    mapboxgl.accessToken = 'pk.eyJ1IjoidGhpYWdvbGFhc3MiLCJhIjoiY2xwY3AzeHQzMHB0ODJxbmx0MDJpaXR0OCJ9.ClIaExfVASRAkMKE-i1phw';
+    mapboxgl.accessToken = '';
 
     const map = new mapboxgl.Map({
         container: 'map',
